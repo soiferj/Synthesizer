@@ -14,10 +14,13 @@ Tools Used:
 
 Circuit:
 ---------
-                    +10µF 
-PIN 3 ---[ 1k ]--+---||--->> Audio out (I used 3.5mm jack to speaker)
-                  |
-                 === 10nF
-                  |
-                GND
+- C1 = 10nF
+- C2 = 10µF
+- R1 = 1k
+
+(PIN 3)---R1-------C2-->> Audio out (I used 3.5mm jack to speaker)
+               |
+               C1
+               |
+              GND
 
