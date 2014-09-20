@@ -14,7 +14,6 @@ Tools Used:
 
 Circuit:
 ---------
-
                     +10µF 
 PIN 3 ---[ 1k ]--+---||--->> Audio out (I used 3.5mm jack to speaker)
                   |
