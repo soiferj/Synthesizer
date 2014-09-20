@@ -1,7 +1,7 @@
 Synthesizer
 ===========
 
-Arduino-based Monophonic Synthesizer
+Arduino-based Monophonic Synthesizer. Will be capable of producing sine, saw, square, and triangle waves with modifiable amp envelopes and some simple modulation.
 
 
 Tools Used:
